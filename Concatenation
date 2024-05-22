@@ -1,0 +1,4 @@
+str1=str(input("Enter a String1:"))
+str2=str(input("Enter a String2:"))
+str3=(str1+str2)
+print("Concatenate String is:",str3)
