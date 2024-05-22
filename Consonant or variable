@@ -1,0 +1,6 @@
+char=input("Enter a character:")
+vowel=['a','e','i','o','u','A','E','I','O','U']
+if char in vowel:
+    print("Character is a vowel")
+else:
+    print("Character is a consonant")
