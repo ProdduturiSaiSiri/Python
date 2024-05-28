@@ -1,0 +1,10 @@
+list=["Sai",15]
+#Inserting the element
+list.insert(0,125)
+print(list) #o/p:[125,"Sai",15]
+#Appending the element
+list.append("Siri")
+print(list) #o/p:[125,"Sai",15,"Siri"]
+#Extending the element
+list.extend(["Helloooooo",1])
+print(list) #o/p:[125,"Sai",6,"Siri","Hellloooo",1]
