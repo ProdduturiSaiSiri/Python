@@ -1,0 +1,6 @@
+list=[15,23,"Siri"]
+list.insert(3,"Sai")
+print(list)
+
+#o/p:
+[1, 2, "Sai","Siri"]
