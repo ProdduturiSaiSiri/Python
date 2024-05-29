@@ -1,0 +1,11 @@
+list=[1,2,3,4,3,5,9]
+n=3
+print(list)
+for x in list:
+    if x==n:
+        list.remove(x)
+print(list)
+
+#o/p:
+[1, 2, 3, 4, 3, 5, 9]
+[1, 2, 4, 5, 9]
