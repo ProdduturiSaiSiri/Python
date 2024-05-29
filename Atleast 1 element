@@ -1,0 +1,10 @@
+my_set1={1,2,3}
+my_set2={3,4,5}
+my_set=list((my_set1)&(my_set2))
+if my_set:
+    print("True")
+else:
+    print("False")
+
+#o/p:
+True
