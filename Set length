@@ -1,0 +1,5 @@
+my_set={1,"Prodduturi",12,15.12,"35"}
+print(len(my_set))
+
+#o/p:
+5
