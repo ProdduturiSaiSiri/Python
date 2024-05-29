@@ -1,0 +1,13 @@
+my_set=str(input("Enter Text:"))
+count=0
+vowels=set("aeiou")
+for letter in my_set:
+    if letter in vowels:
+        count+=1
+print("Letter is:",letter)
+print("Count is:",count)
+
+#o/p:
+Enter Text:datta
+Letter is: a
+Count is: 2
