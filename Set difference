@@ -1,0 +1,6 @@
+my_set1={1,5,10,20}
+my_set2={1,5,30,40}
+print(list(set(my_set1)-set(my_set2)))
+
+#o/p:
+[10, 20]
