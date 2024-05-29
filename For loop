@@ -1,0 +1,10 @@
+list=[10,20,"siri",30,40]
+for data in list:
+    print(data)
+
+#o/p:
+10
+20
+siri
+30
+40
