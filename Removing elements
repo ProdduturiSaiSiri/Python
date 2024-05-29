@@ -1,0 +1,13 @@
+list=[121,"Prodduturi",65,"Sai","Hellooooo!!!!"]
+#Remove
+list.remove(121)
+print(list) #o/p:["Prodduturi", 65,"Sai","Hellooooo!!!!"]
+#Pop -> using index
+list.pop(3) 
+print(list) #o/p:[121,"Prodduturi",65,"Sai"]
+#Clear
+list.clear()
+print(list) #o/p:[]
+#Del
+del list
+print(list) #o/p:<class 'list'>
