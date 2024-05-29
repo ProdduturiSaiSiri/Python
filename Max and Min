@@ -1,0 +1,9 @@
+my_set={10,100,1}
+max_ele=max(my_set)
+min_ele=min(my_set)
+print(max_ele)
+print(min_ele)
+
+#o/p:
+100
+1
