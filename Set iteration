@@ -1,0 +1,8 @@
+my_set={11,"pinky",61}
+for a in my_set:
+    print(a)
+
+#o/p:
+11
+pinky
+61
